@@ -10,7 +10,6 @@ import Vision
 import UIKit
 
 class ViewController: UIViewController, AVCapturePhotoCaptureDelegate {
-    @IBOutlet weak var square: UIImageView!
     var captureSession: AVCaptureSession!
     var backCamera: AVCaptureDevice?
     var cameraPreviewLayer: AVCaptureVideoPreviewLayer?
@@ -79,7 +78,9 @@ class ViewController: UIViewController, AVCapturePhotoCaptureDelegate {
         captureSession.sessionPreset = .hd1280x720
 
         // Set up the video device.
-        let deviceDiscoverySession = AVCaptureDevice.DiscoverySession(deviceTypes: [AVCaptureDevice.DeviceType.builtInWideAngleCamera], mediaType: AVMediaType.video, position: .back)
+        let deviceDiscoverySession = AVCaptureDevice.DiscoverySession(deviceTypes: [AVCaptureDevice.DeviceType.builtInWideAngleCamera],
+                                                                      mediaType: AVMediaType.video,
+                                                                      position: .back)
         let devices = deviceDiscoverySession.devices
         for device in devices {
             if device.position == AVCaptureDevice.Position.back {
