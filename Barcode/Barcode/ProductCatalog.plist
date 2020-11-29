@@ -2,15 +2,215 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>0049000001327</key>
+	<dict>
+		<key>name</key>
+		<string>Sprite Can, 12 fl oz : Can be recycled</string>
+	</dict>
+	<key>0049000028904</key>
+	<dict>
+		<key>name</key>
+		<string>Coca-Cola - 12 Pack Cans : Can be recycled</string>
+	</dict>
+	<key>0085239085943</key>
+	<dict>
+		<key>name</key>
+		<string>Lightly Salted Dry Roasted Peanuts 16 oz. Can be recycled</string>
+	</dict>
+	<key>0034000470563</key>
+	<dict>
+		<key>name</key>
+		<string>Reese&apos;s minies 7.6 oz. : Can&apos;t be recycled</string>
+	</dict>
 	<key>5449000000897</key>
 	<dict>
 		<key>name</key>
-		<string>Classic Coke, 12 oz. can</string>
+		<string>Classic Coke, 12 oz. :  Can be recycled</string>
 	</dict>
 	<key>5449000000996</key>
 	<dict>
 		<key>name</key>
-		<string>coke1</string>
+		<string>Classic Coke, 12 oz. : Can be recycled</string>
+	</dict>
+	<key>0049000608779</key>
+	<dict>
+		<key>name</key>
+		<string>Classic Coke, 12 oz. : Can be recycled</string>
+	</dict>
+	<key>0049000006582</key>
+	<dict>
+		<key>name</key>
+		<string>Diet Coke Can, 12 fl oz : Can be recycled</string>
+	</dict>
+	<key>0049000050103</key>
+	<dict>
+		<key>name</key>
+		<string>Coca-Cola Bottle, 2 Liters : Can be recycled</string>
+	</dict>
+	<key>0044000006808</key>
+	<dict>
+		<key>name</key>
+		<string>Oreo - Cookies - Mini Chocolate Sandwich 3.00 oz : Can not be recycled</string>
+	</dict>
+	<key>0070221009625</key>
+	<dict>
+		<key>name</key>
+		<string>Milka Oreo Chocolate Candy Bar, 10.2 Oz. : Can not be recycled</string>
+	</dict>
+	<key>0689544080138</key>
+	<dict>
+		<key>name</key>
+		<string>Fage Total Blueberry Acai Greek Yogurt, 5.3 Ounce : Can be recycled</string>
+	</dict>
+	<key>0689544080206</key>
+	<dict>
+		<key>name</key>
+		<string>Fage - Total 2% Lowfat Greek Strained Yogurt 7.00 oz : Can be recycled</string>
+	</dict>
+	<key>0078355550006</key>
+	<dict>
+		<key>name</key>
+		<string>Greek Gods Plain Greek Yogurt, 24 oz. Tub : Can be recycled</string>
+	</dict>
+	<key>0031200000668</key>
+	<dict>
+		<key>name</key>
+		<string>100% Juice, Cranberry, 10oz Bottle, 6/Pack : Can be recycled</string>
+	</dict>
+	<key>0048500001769</key>
+	<dict>
+		<key>name</key>
+		<string>Tropicana Juice, Apple, 10 Fl Oz (Pack of 24) : Can be recycled</string>
+	</dict>
+	<key>0076301752016</key>
+	<dict>
+		<key>name</key>
+		<string>Apple &amp; Eve Organic Juice, Apple, 48 Fl. Oz. : Can be recycled</string>
+	</dict>
+	<key>0014800000344</key>
+	<dict>
+		<key>name</key>
+		<string>Mott&apos;s 100% Apple Juice, 64 Fl Oz Bottle : Can be recycled</string>
+	</dict>
+	<key>0048500757154</key>
+	<dict>
+		<key>name</key>
+		<string>Tropicana Orange Juice, 10 Oz (Pack of 24) : Can be recycled</string>
+	</dict>
+	<key>0071464200404</key>
+	<dict>
+		<key>name</key>
+		<string>Bolthouse Farms - 100% Carrot Juice 15.20 fl oz : Can be recycled</string>
+	</dict>
+	<key>0077330530057</key>
+	<dict>
+		<key>name</key>
+		<string>Royal Dansk Danish Butter Cookies, 12 Oz. : Can be recycled</string>
+	</dict>
+	<key>0039047005365</key>
+	<dict>
+		<key>name</key>
+		<string>Walkers W536 Shortbread Cookies : Can not be recycled</string>
+	</dict>
+	<key>0044000088422</key>
+	<dict>
+		<key>name</key>
+		<string>Oreo - Chocolate Sandwich Cookies 24.00 oz : Can not be recycled</string>
+	</dict>
+	<key>0009800895007</key>
+	<dict>
+		<key>name</key>
+		<string>Nutella Hazelnut Spread, 13 Oz : Can be recycled</string>
+	</dict>
+	<key>0009800800070</key>
+	<dict>
+		<key>name</key>
+		<string>Nutella Nutella &amp; Go! : Can be recycled</string>
+	</dict>
+	<key>0076808280739</key>
+	<dict>
+		<key>name</key>
+		<string>Barilla Penne Pasta, 16 Oz : Can be recycled</string>
+	</dict>
+	<key>0076808501063</key>
+	<dict>
+		<key>name</key>
+		<string>Barilla Angel Hair Pasta, 16 Oz : Can be recycled</string>
+	</dict>
+	<key>0076808280982</key>
+	<dict>
+		<key>name</key>
+		<string>Barilla Rotini Pasta - 16oz : Can be recycled</string>
+	</dict>
+	<key>0077567226006</key>
+	<dict>
+		<key>name</key>
+		<string>Breyers Ice Cream, Homemade Vanilla, 48 Oz : Can be recycled</string>
+	</dict>
+	<key>0077567254207</key>
+	<dict>
+		<key>name</key>
+		<string>Breyers Ice Cream, Chocolate, 48 Oz : Can be recycled</string>
+	</dict>
+	<key>0024100594375</key>
+	<dict>
+		<key>name</key>
+		<string>Cheez-It Crackers, Provolone, 12.4 Oz : Can be recycled</string>
+	</dict>
+	<key>0021000018659</key>
+	<dict>
+		<key>name</key>
+		<string>Provolone Cheese Slices 8 Oz : Can not be recycled</string>
+	</dict>
+	<key>653476917305</key>
+	<dict>
+		<key>name</key>
+		<string>Seasoning Blend Everything But The Bagel Sesame Spice 4/Pk Trader Joes : Can be recycled</string>
+	</dict>
+	<key>000057078700</key>
+	<dict>
+		<key>name</key>
+		<string>Trader Joes Nothing but Fruits &amp; Nuts Fig Walnut 7.04 oz : Can not be recycled</string>
+	</dict>
+	<key>000060932600</key>
+	<dict>
+		<key>name</key>
+		<string>Trader Joes Organic Mayonnaise 1 Pt : Can be recycled</string>
+	</dict>
+	<key>731840248528</key>
+	<dict>
+		<key>name</key>
+		<string>Trader Joes Chocolate Covered Espresso Beans and Cocoa Truffles : Can be recycled</string>
+	</dict>
+	<key>000000125581</key>
+	<dict>
+		<key>name</key>
+		<string>Trader Joes Aloe Vera Gel : Can be recycled</string>
+	</dict>
+	<key>000000946407</key>
+	<dict>
+		<key>name</key>
+		<string>Trader Joe&apos;s Deli Style Spicy Brown Mustard All Natural : Can be recycled</string>
+	</dict>
+	<key>0740016020349</key>
+	<dict>
+		<key>name</key>
+		<string>Organic Fair Trade Five Country Espresso Blend 100% : Can be recycled</string>
+	</dict>
+	<key>000000909938</key>
+	<dict>
+		<key>name</key>
+		<string>Trader Joes Triple Ginger Cookie Thins (Pack of 3) : Can be recycled</string>
+	</dict>
+	<key>0000000387477</key>
+	<dict>
+		<key>name</key>
+		<string>Trader Joe&apos;s Organic Tomato Paste : Can be recycled</string>
+	</dict>
+	<key>0000000621045</key>
+	<dict>
+		<key>name</key>
+		<string>Organic Dark Chocolate Pb&amp;j Minis : Can be recycled</string>
 	</dict>
 </dict>
 </plist>

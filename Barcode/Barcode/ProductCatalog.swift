@@ -16,7 +16,7 @@ struct ProductCatalog {
             let xml = FileManager.default.contents(atPath: path) {
             products = try? PropertyListSerialization.propertyList(from: xml,
                                                                    options: .mutableContainersAndLeaves,
-                                                                   format: &format) as? [String: [String: AnyObject]]
+                format: &format) as? [String: [String: AnyObject]]
         }
     }
 
